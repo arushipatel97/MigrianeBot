@@ -1,5 +1,5 @@
 /*
-Base for exercise-slackbot code taken from mybot:
+Base for mbot code taken from mybot:
 mybot - Illustrative Slack bot in Go
 Copyright (c) 2015 RapidLoop
 Permission is hereby granted, free of charge, to any person obtaining a copy

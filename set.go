@@ -1,5 +1,9 @@
 package main
 
+// Set is a modification of https://github.com/deckarep/golang-set
+// The MIT License (MIT)
+// Copyright (c) 2013 Ralph Caraveo (deckarep@gmail.com)
+
 type ThreadUnsafeSet map[string]struct{}
 
 func New(a ...string) ThreadUnsafeSet {
